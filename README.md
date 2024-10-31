@@ -9,6 +9,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
 
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen)
+
 <!--
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=122404213)
