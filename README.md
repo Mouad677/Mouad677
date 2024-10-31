@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+## Gmail
+<a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
 ## Top countries visitors
 
 <img src="https://s01.flagcounter.com/countxl/BpZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
