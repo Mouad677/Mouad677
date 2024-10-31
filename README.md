@@ -8,7 +8,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
 
-![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge	)
 
 <!--
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
