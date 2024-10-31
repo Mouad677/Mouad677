@@ -6,6 +6,8 @@
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
+
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen)
 <!--
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
