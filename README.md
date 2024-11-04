@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<div align='center' width='100%'>
+    <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
 ## Gmail
 <a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -38,3 +42,6 @@ Here are some ideas to get you started:
 ## Top countries visitors
 
 <img src="https://s01.flagcounter.com/countxl/BpZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+
+
+
