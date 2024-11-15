@@ -4,11 +4,16 @@
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
-
+## GitHub State
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge	)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
+
+![](https://hit.yhype.me/github/profile?user_id=122404213)
+
 
 <!--
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +30,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://hit.yhype.me/github/profile?user_id=122404213)
 
 <br>
 <br>
 
-<div align='center' width='100%'>
+<div width='100%'>
     <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
