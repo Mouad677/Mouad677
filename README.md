@@ -7,10 +7,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub State
+## GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge	)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
+
+<br>
 
 ![](https://hit.yhype.me/github/profile?user_id=122404213)
 
@@ -30,12 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<br>
-<br>
-
-<div width='100%'>
-    <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<div width='8%'>
+    <img width='38%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
 ## Gmail
