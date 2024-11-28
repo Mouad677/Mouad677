@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-0c70c8?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![JAVA](https://img.shields.io/badge/JAVA-215dc7?style=for-the-badge&logo=java&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/flutter-0cc85f?style=for-the-badge&logo=flutter&logoColor=white)
 ![SWIFT](https://img.shields.io/badge/SWIFT-cac5b9?style=for-the-badge&logo=swift&logoColor=black)
+![SQLITE](https://img.shields.io/badge/SQLITE-08b627?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## Gmail
