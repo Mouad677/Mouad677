@@ -39,9 +39,14 @@ Here are some ideas to get you started:
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![JAVA](https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=java&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/typescript-0c70c8?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-215dc7?style=for-the-badge&logo=java&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/flutter-0cc85f?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ## Gmail
