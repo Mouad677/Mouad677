@@ -36,6 +36,14 @@ Here are some ideas to get you started:
     <img width='38%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
+## Languages and Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![JAVA](https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=java&logoColor=white)
+
+
 ## Gmail
 <a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
