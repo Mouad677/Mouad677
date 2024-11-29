@@ -8,11 +8,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
-![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge	)
+![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">
 
-<br>
 <!--
 ![](https://hit.yhype.me/github/profile?user_id=122404213)
 -->
