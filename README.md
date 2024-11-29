@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-f35d1b?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
+
 ## Gmail
 <a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
