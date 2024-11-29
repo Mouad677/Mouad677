@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 ![SWIFT](https://img.shields.io/badge/SWIFT-cac5b9?style=for-the-badge&logo=swift&logoColor=black)
 ![SQLITE](https://img.shields.io/badge/SQLITE-08b627?style=for-the-badge&logo=sqlite&logoColor=white)
+![NUMPY](https://img.shields.io/badge/NUMPY-faef42?style=for-the-badge&logo=numpy&logoColor=black)
 
 
 ## Gmail
