@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![KOTLIN](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-215dc7?style=for-the-badge&logo=java&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/flutter-0cc85f?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-f5df26?style=for-the-badge&logo=dart&logoColor=black)
 ![IONIC](https://img.shields.io/badge/IONIC-4a42fa?style=for-the-badge&logo=ionic&logoColor=white)
 
 ![SWIFT](https://img.shields.io/badge/SWIFT-cac5b9?style=for-the-badge&logo=swift&logoColor=black)
