@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## Top countries visitors
 
-<img src="https://s01.flagcounter.com/countxl/BpZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+<img src="https://s01.flagcounter.com/countxl/BpZ/bg_f59726/txt_000000/border_e34416/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="2" border-raduis = "18">
 
 
 ![](https://hit.yhype.me/github/profile?user_id=122404213)
