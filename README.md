@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
 
-![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-215dc7?style=for-the-badge&logo=java&logoColor=white)
