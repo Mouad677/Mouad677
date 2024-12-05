@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![PANDAS](https://img.shields.io/badge/PANDAS-a9fa42?style=for-the-badge&logo=pandas&logoColor=black)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-f35d1b?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![vscode](https://skillicons.dev/icons?i=vscode)
+![vscode](https://skillicons.dev/icons?i=vscode) 
 
 
 
