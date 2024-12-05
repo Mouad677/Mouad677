@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-0c70c8?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
-![Google Colab](https://img.shields.io/badge/googlecolab-e62802?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
 ![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +53,8 @@ Here are some ideas to get you started:
 ![PANDAS](https://img.shields.io/badge/PANDAS-a9fa42?style=for-the-badge&logo=pandas&logoColor=black)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-f35d1b?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
 ![vscode](https://skillicons.dev/icons?i=vscode) 
