@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-f35d1b?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![vscode](https://skillicons.dev/icons?i=vscode) 
+![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
 
 
 
