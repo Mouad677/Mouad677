@@ -7,10 +7,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C,A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
-![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
+<hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">     
-<img width='380'src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117"/>
+![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+         <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="517"/>
+    	  <img width='372' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117"/>                                                   
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="480" >     
+<!--         <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
+</div> -->
 
        
 <!--
@@ -61,7 +69,6 @@ Here are some ideas to get you started:
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github) 
 ![Gitlab](https://skillicons.dev/icons?i=gitlab)
-
 
 
 
