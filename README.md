@@ -11,8 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mouad677&theme=vue&show_icons=true" width="380">     
 <img width='380'src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117"/>
-  
-    
+
        
 <!--
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
