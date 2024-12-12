@@ -82,5 +82,15 @@ Here are some ideas to get you started:
 
 <img src="https://s01.flagcounter.com/countxl/BpZ/bg_f59726/txt_000000/border_e34416/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="2" border-raduis = "18">
 
+<div align="center" >
+
+<hr></hr>
+
+  <br/>
+
+![Mouad677's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mouad677&bg_color=000000f&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
+</div>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=122404213)
