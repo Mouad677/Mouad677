@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![vscode](https://skillicons.dev/icons?i=vscode) 
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
 ![Anaconda](https://skillicons.dev/icons?i=anaconda) 
+![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github) 
 ![Gitlab](https://skillicons.dev/icons?i=gitlab)
 
