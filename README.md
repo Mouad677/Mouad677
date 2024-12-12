@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 <div style="display: flex; justify-content: space-between; align-items: center;">
-         <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="517"/>
+         <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="417"/>
     	  <img width='372' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad677&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117"/>                                                   
 </div>
 
