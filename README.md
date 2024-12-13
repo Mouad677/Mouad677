@@ -8,7 +8,6 @@
 
 ## GitHub Stats
     
-   
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 <div style="display: flex; justify-content: space-between; align-items: center;">
          <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="437"/>
