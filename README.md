@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C,A&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
-      
+         
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 <div style="display: flex; justify-content: space-between; align-items: center;">
          <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="437"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+    
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![FLUTTER](https://img.shields.io/badge/flutter-0cc85f?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-f5df26?style=for-the-badge&logo=dart&logoColor=black)
 ![IONIC](https://img.shields.io/badge/IONIC-4a42fa?style=for-the-badge&logo=ionic&logoColor=white)
-            
+              
 ![SWIFT](https://img.shields.io/badge/SWIFT-cac5b9?style=for-the-badge&logo=swift&logoColor=black)
 ![SQLITE](https://img.shields.io/badge/SQLITE-08b627?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/NUMPY-faef42?style=for-the-badge&logo=numpy&logoColor=black)
