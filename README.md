@@ -24,7 +24,7 @@
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       
 Here are some ideas to get you started:
-     
+        
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
                       
-         
+           
 ![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
