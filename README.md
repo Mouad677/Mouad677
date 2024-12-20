@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github) 
 ![Gitlab](https://skillicons.dev/icons?i=gitlab)
-     
+
   
 ## Gmail
 <a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
