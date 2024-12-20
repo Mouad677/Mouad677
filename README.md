@@ -24,7 +24,7 @@
 **Mouad677/Mouad677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       
 Here are some ideas to get you started:
-  
+     
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-0c70c8?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
-                   
+                      
          
 ![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![Github](https://skillicons.dev/icons?i=github) 
 ![Gitlab](https://skillicons.dev/icons?i=gitlab)
    
-
+  
 ## Gmail
 <a href="mailto:mailto:mouaddrissi73@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
