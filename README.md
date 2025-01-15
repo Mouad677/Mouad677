@@ -1,4 +1,3 @@
-## Hi there 👋 
 ### Its Mouad , A Mobile developer 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
