@@ -1,4 +1,6 @@
-### Its Mouad , A Software developer 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;This+is+Mouad+DRISSI&center=true&size=30....;Nice+to+meet+you!&center=true&size=30">
+</h1>
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 -->
