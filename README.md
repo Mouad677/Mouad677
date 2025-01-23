@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C,A,AA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## GitHub Stats                  
-                                   
+                                    
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 <div style="display: flex; justify-content: space-between; align-items: center;">  
          <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="437"/> 
