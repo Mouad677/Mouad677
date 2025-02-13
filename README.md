@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ![NUMPY](https://img.shields.io/badge/NUMPY-faef42?style=for-the-badge&logo=numpy&logoColor=black)
 ![PANDAS](https://img.shields.io/badge/PANDAS-a9fa42?style=for-the-badge&logo=pandas&logoColor=black)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-f35d1b?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![R](https://img.shields.io/badge/r-blue?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=pandas&logoColor=white)
    
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -64,10 +65,12 @@ Here are some ideas to get you started:
   
 ![vscode](https://skillicons.dev/icons?i=vscode) 
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
+![gradle	](https://skillicons.dev/icons?i=gradle)
+![java](https://skillicons.dev/icons?i=java) 
 ![Anaconda](https://skillicons.dev/icons?i=anaconda) 
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github) 
-![Gitlab](https://skillicons.dev/icons?i=gitlab)
+![maven	](https://skillicons.dev/icons?i=maven)
 
   
 ## Gmail
