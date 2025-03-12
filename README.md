@@ -4,7 +4,7 @@
 <!--                                                                                                                     
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&theme=onedark)](https://github.com/ryo-ma/github-profile-tr ophy) 
 -->                                  
-                                                       
+                                                        
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C,A,AAA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     
 ## GitHub Stats                      
