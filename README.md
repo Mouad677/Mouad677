@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=pandas&logoColor=white)
    
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-  
+
 ![vscode](https://skillicons.dev/icons?i=vscode) 
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
 ![FIGMA](https://skillicons.dev/icons?i=figma) 
