@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&rank=B,C,A,AAA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     
 ## GitHub Stats                        
-                                           
+                                            
 ![](https://komarev.com/ghpvc/?username=Mouad677&color=brightgreen&style=for-the-badge)
 <div style="display: flex; justify-content: space-between; align-items: center;">  
          <img src="https://streak-stats.demolab.com?user=Mouad677&theme=hacker" width="437"/> 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-0c70c8?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1c1b19?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-e62802?style=for-the-badge&logo=laravel&logoColor=white)
-                            
+                             
                   
 ![PYTHON](https://img.shields.io/badge/python-04a704?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
