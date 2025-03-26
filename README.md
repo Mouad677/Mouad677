@@ -1,6 +1,6 @@
  <h1 align="center">    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2500&pause=1000&color=4C5FF7&center=true&width=435&lines=Hello+There!;Im+Mouad+DRISSI;A+Software+developer;Nice+to+meet+you!" alt="Typing SVG" /></a>
- </h1>                                                                                                            
+ </h1>                                                                                                             
 <!--                                                                                                                                               
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mouad677&theme=onedark)](https://github.com/ryo-ma/github-profile-tr ophy) 
 -->                                       
